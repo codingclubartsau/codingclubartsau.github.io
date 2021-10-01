@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Coding Club Arts!
 
 You can use the [editor on GitHub](https://github.com/codingclubartsau/codingclubartsau.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
