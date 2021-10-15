@@ -13,6 +13,9 @@ Information will soon be updated
 Information will soon be updated
 
 ## R
-Information will soon be updated
+To work in R you first need to install the programming language R and then the workspace Rstudio, which makes it more convenient to work with R.
+
+First download R via https://cran.r-project.org/.
+Next download Rstudio IDE via rstudio.com.
 
 ![Coding Club](codingclub.png)
