@@ -6,6 +6,16 @@ On this page you will find some useful information about how to get started on d
 
 For now we are focusing on the coding languages python, processing and R, but feel free to join whichever programming language you prefer!
 
+## Calendar Fall 21
+29/10: Text Mining Basic
+5/11: Text Mining Next Step
+12/11: Machine Learning with Text
+19/11:
+26/11: Text Analysis with Statistics
+3/12:
+10/12:
+17/12:
+
 ## Python
 Information will soon be updated
 
