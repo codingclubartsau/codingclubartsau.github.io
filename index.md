@@ -12,7 +12,7 @@ For now we are focusing on the coding languages python, processing and R, but fe
 - 12/11: Simple Machine Learning for Text Analysis
 - 19/11: Coding Club
 - 26/11: Text Analysis with Statistics
-- 3/12: Cuding Club
+- 3/12: Coding Club
 - 10/12: Coding Club
 - 17/12: End of the Semester
 
