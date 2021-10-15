@@ -11,7 +11,7 @@ For now we are focusing on the coding languages python, processing and R, but fe
 - 5/11: Text Mining Next Step
 - 12/11: Simple Machine Learning for Text Analysis
 - 19/11: Coding Club
-- 26/11: Text Analysis with Statistics
+- 26/11: Text Analysis and Statistics
 - 3/12: Coding Club
 - 10/12: Coding Club
 - 17/12: End of the Semester
