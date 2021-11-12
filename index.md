@@ -19,7 +19,7 @@ For now we are focusing on the coding languages python, processing and R, but fe
 ## Python
 Information will soon be updated
 
-You can find the course in 'Simple Machine Learning for Text Analysis' here: [Link](https://colab.research.google.com/drive/1x6v1_08owVYbhDiV-LNYo-MgbLWROp5B?usp=sharing&fbclid=IwAR3ReDkjPQaxDl2IvqJaUyUbjzcSbIzudGiOuas_VCsKpBjDLTspTdpXLHw#scrollTo=781ad1db). Thanks big thanks to Phillip for sharing his code!
+You can find the course in 'Simple Machine Learning for Text Analysis' [here](https://colab.research.google.com/drive/1x6v1_08owVYbhDiV-LNYo-MgbLWROp5B?usp=sharing&fbclid=IwAR3ReDkjPQaxDl2IvqJaUyUbjzcSbIzudGiOuas_VCsKpBjDLTspTdpXLHw#scrollTo=781ad1db). Thanks big thanks to Phillip for sharing his code!
 
 ## R
 To work with R you first need to install the programming language R and then the workspace Rstudio, which makes it more convenient to work with R.
