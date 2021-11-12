@@ -10,7 +10,7 @@ For now we are focusing on the coding languages python, processing and R, but fe
 - 29/10: Text Mining Basic
 - 5/11: Text Mining Next Step
 - 12/11: Simple Machine Learning for Text Analysis
-- 19/11: Coding Club
+- 19/11: No coding Club due to Data Sprint event
 - 26/11: Text Analysis and Statistics
 - 3/12: Coding Club
 - 10/12: Coding Club
@@ -19,8 +19,7 @@ For now we are focusing on the coding languages python, processing and R, but fe
 ## Python
 Information will soon be updated
 
-## Processing
-Information will soon be updated
+You can find the course in 'Simple Machine Learning for Text Analysis' here: [Link](https://colab.research.google.com/drive/1x6v1_08owVYbhDiV-LNYo-MgbLWROp5B?usp=sharing&fbclid=IwAR3ReDkjPQaxDl2IvqJaUyUbjzcSbIzudGiOuas_VCsKpBjDLTspTdpXLHw#scrollTo=781ad1db). Thanks big thanks to Phillip for sharing his code!
 
 ## R
 To work with R you first need to install the programming language R and then the workspace Rstudio, which makes it more convenient to work with R.
@@ -28,4 +27,9 @@ To work with R you first need to install the programming language R and then the
 - First download R via [https://cran.r-project.org/](https://cran.r-project.org/).
 - Next download Rstudio IDE via [https://rstudio.com](https://rstudio.com).
 
+
+## Processing
+Information will soon be updated
+
 ![Coding Club](codingclub.png)
+
