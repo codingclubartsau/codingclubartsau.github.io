@@ -12,9 +12,7 @@ For now we are focusing on the coding languages python, processing and R, but fe
 - 12/11: Simple Machine Learning for Text Analysis
 - 19/11: No coding Club due to Data Sprint event
 - 26/11: Text Analysis and Statistics
-- 3/12: Coding Club
-- 10/12: Coding Club
-- 17/12: End of the Semester
+- 3/12: End of the semester Christmas Coding
 
 ## Python
 Information will soon be updated
