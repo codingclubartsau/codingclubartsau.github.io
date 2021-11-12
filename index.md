@@ -1,6 +1,6 @@
 ![Coding Club](codingclub.png)
 ## Welcome to Coding Club Arts!
-Coding Club Arts - also called smARTwork - is a creative coding club for all students in the humanities. We meet once a week and help each other, learn, inspire, discuss and play with coding aspects of the humanities. For more information about where and when to meet, please visit this our facebook page: [https://www.facebook.com/groups/564726104661699](https://www.facebook.com/groups/564726104661699). On facebook we will also share information about upcoming events like worhskops, showcases etc. 
+Coding Club Arts - also called smARTwork - is a creative coding club for all students in the humanities. We meet once a week and help each other, learn, inspire, discuss and play with coding aspects of the humanities. For more information about where and when to meet, please visit our facebook [page](https://www.facebook.com/groups/564726104661699). On facebook we will also share information about upcoming events like worhskops, showcases etc. 
 
 On this page you will find some useful information about how to get started on different coding languages, what one can do with digital aspects in the humanities, inspiration on projects etc. 
 
